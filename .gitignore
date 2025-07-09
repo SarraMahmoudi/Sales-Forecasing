@@ -1,0 +1,17 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore large data files
+*.pkl
+*.csv
+*.xlsx
+
+# Ignore the specific problematic file
+data/processed/df_sales_train1.pkl
+
+
+
